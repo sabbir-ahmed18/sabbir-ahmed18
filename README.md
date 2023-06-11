@@ -4,13 +4,16 @@
 #### Web Designer & Developer 
 I am a MERN (MongoDB, Express.js, React.js, Node.js) stack Web developer who is passionate about making error-free,robust and scalable web applications websites with 100% client satisfaction.I love to solve real world problems and enjoy the challenge of solving complex problems and thrive in collaborative environments where I can contribute my skills and expertise. My expertise lies in front-end development using modern frameworks like React and Angular, as well as back-end development using Node.js and Express.Also have experience working with Wordpress. 
 
-###Skills:  REACT /node.js/ JS / HTML / CSS/Bootstrap 
-
 - 🔭 I’m currently working on 📒node.js 
 - 🌱 I’m currently learning 👨‍💻js 
 - 👯 I’m looking to collaborate on 💡new business ideas 
 - 💬 Ask me about 👨‍💻Web Desien 
-- 📫 How to reach me: ✉freelancersani76@gmail.com 
+- 📫 How to reach me: ✉freelancersani76@gmail.com   
+
+
+###Skills:  
+
+REACT /node.js/ JS / HTML / CSS/Bootstrap 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabbir-ahmed18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/m.me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sabbirahmed_18/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sabbir18_)  
