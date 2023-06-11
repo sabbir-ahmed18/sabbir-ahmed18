@@ -1,10 +1,10 @@
 <img src="https://github.com/sabbir-ahmed18/sabbir-ahmed18/blob/main/png_20230611_132814_0000%5B23%5D.png">
 
-### Hi there 👋, I am Sabbir Ahmed
+## Hi there 👋, I am Sabbir Ahmed
 #### Web Designer & Developer 
 I am a MERN (MongoDB, Express.js, React.js, Node.js) stack Web developer who is passionate about making error-free,robust and scalable web applications websites with 100% client satisfaction.I love to solve real world problems and enjoy the challenge of solving complex problems and thrive in collaborative environments where I can contribute my skills and expertise. My expertise lies in front-end development using modern frameworks like React and Angular, as well as back-end development using Node.js and Express.Also have experience working with Wordpress. 
 
-Skills:  REACT /node.js/ JS / HTML / CSS/Bootstrap 
+###Skills:  REACT /node.js/ JS / HTML / CSS/Bootstrap 
 
 - 🔭 I’m currently working on 📒node.js 
 - 🌱 I’m currently learning 👨‍💻js 
